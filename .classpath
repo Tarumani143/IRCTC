@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/mysql-connector-java-8.0.11.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARE/MySQL/MySQL Software/jars/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/SOFTWARE/MySQL/MySQL Software/jars/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/apache-poi/poi-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/apache-poi/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/apache-poi/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/apache-poi/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/apache-poi/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/apache-poi/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/json-jar-files/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/NAGESHWAR RAO ADVANCE JAVA VIDEOS AND NOTES/Notes and java software/json-jar-files/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/VIDEOS OF ADV JAVA BY RAM SIR/Downloaded jar files/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/HP/OneDrive/Desktop/ojdbc14.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
